@@ -1,0 +1,978 @@
+{
+  "advertSummary": [
+    {
+      "id": "1520653002",
+      "verticalId": 5,
+      "adTypeId": 67,
+      "productId": 67,
+      "advertStatus": {
+        "id": "active",
+        "description": "aktiv",
+        "statusId": 50
+      },
+      "description": "SILBER + RUTHENIUM Finish - 2oz - Chamäleon - 2023 - Erste Ausgabe der Serie \"Vertreter der Arten\" Germania Mint - nur 500 Stück weltweit!",
+      "attributes": {
+        "attribute": [
+          {
+            "name": "LOCATION",
+            "values": [
+              "Wien, 10. Bezirk, Favoriten"
+            ]
+          },
+          {
+            "name": "p2penabled",
+            "values": [
+              "false"
+            ]
+          },
+          {
+            "name": "CHANGED",
+            "values": [
+              "1714135620000"
+            ]
+          },
+          {
+            "name": "categorytreeattributeids",
+            "values": [
+              "[2553;2559, 2535;2537, 2535;2536, 21;2546]"
+            ]
+          },
+          {
+            "name": "CHANGED_String",
+            "values": [
+              "2024-04-26T14:47:00Z"
+            ]
+          },
+          {
+            "name": "POSTCODE",
+            "values": [
+              "1100"
+            ]
+          },
+          {
+            "name": "BODY_DYN",
+            "values": [
+              ">>> Es gibt noch viele weitere tolle Münzen in meinen Inseraten! <<<\nhohes Wertsteigerungspotential durch geringe Stückzahl und Erstausgabe einer neuen Serie! Im regulären Handel bereits ausverkauft und unter €370.- nicht mehr zu bekommen! Dies ist..."
+            ]
+          },
+          {
+            "name": "STATE",
+            "values": [
+              "Wien"
+            ]
+          },
+          {
+            "name": "ORG_UUID",
+            "values": [
+              "535db07a-509e-4af3-a2d1-c82a3667e9e5"
+            ]
+          },
+          {
+            "name": "HEADING",
+            "values": [
+              "SILBER + RUTHENIUM Finish - 2oz - Chamäleon - 2023 - Erste Ausgabe der Serie \"Vertreter der Arten\" Germania Mint - nur 500 Stück weltweit!"
+            ]
+          },
+          {
+            "name": "DISTRICT",
+            "values": [
+              "Wien"
+            ]
+          },
+          {
+            "name": "PUBLISHED",
+            "values": [
+              "1714118760000"
+            ]
+          },
+          {
+            "name": "COUNTRY",
+            "values": [
+              "Österreich"
+            ]
+          },
+          {
+            "name": "RESULT_LIST_TOPAD",
+            "values": [
+              "topad_result"
+            ]
+          },
+          {
+            "name": "PRICE/AMOUNT",
+            "values": [
+              "303.0"
+            ]
+          },
+          {
+            "name": "ENDDATE_String",
+            "values": [
+              "2024-06-03T07:14:00Z"
+            ]
+          },
+          {
+            "name": "ADTYPE_ID",
+            "values": [
+              "67"
+            ]
+          },
+          {
+            "name": "ADID",
+            "values": [
+              "1520653002"
+            ]
+          },
+          {
+            "name": "ORGID",
+            "values": [
+              "19318695"
+            ]
+          },
+          {
+            "name": "SEGMENT",
+            "values": [
+              "1"
+            ]
+          },
+          {
+            "name": "SEO_URL",
+            "values": [
+              "kaufen-und-verkaufen/d/silber-ruthenium-finish-2oz-chamaeleon-2023-erste-ausgabe-der-serie-vertreter-der-arten-germania-mint-nur-500-stueck-weltweit-1520653002/"
+            ]
+          },
+          {
+            "name": "ALL_IMAGE_URLS",
+            "values": [
+              "2/152/065/3002_1722213636.jpg;2/152/065/3002_-1075125646.jpg;2/152/065/3002_-579090829.jpg;2/152/065/3002_551671785.jpg;2/152/065/3002_-892665438.jpg;2/152/065/3002_-369963280.jpg;2/152/065/3002_-1705846553.jpg;2/152/065/3002_-1330196205.jpg;2/152/065/3002_-507720235.jpg;2/152/065/3002_-738799261.jpg;2/152/065/3002_-1542464403.jpg;2/152/065/3002_1760618869.jpg;2/152/065/3002_1682950834.jpg;2/152/065/3002_-619257576.jpg;2/152/065/3002_-2006662287.jpg;2/152/065/3002_-983697493.jpg;2/152/065/3002_398720827.jpg;2/152/065/3002_-1573989759.jpg;2/152/065/3002_-779563299.jpg;2/152/065/3002_-702692853.jpg"
+            ]
+          },
+          {
+            "name": "PUBLISHED_String",
+            "values": [
+              "2024-04-26T10:06:00Z"
+            ]
+          },
+          {
+            "name": "ISPRIVATE",
+            "values": [
+              "1"
+            ]
+          },
+          {
+            "name": "categorytreeids",
+            "values": [
+              "6941;7055;7056"
+            ]
+          },
+          {
+            "name": "PRODUCT_ID",
+            "values": [
+              "67"
+            ]
+          },
+          {
+            "name": "IS_BUMPED",
+            "values": [
+              "1"
+            ]
+          },
+          {
+            "name": "MMO",
+            "values": [
+              "2/152/065/3002_1722213636.jpg"
+            ]
+          },
+          {
+            "name": "ENDDATE",
+            "values": [
+              "1717391640000"
+            ]
+          },
+          {
+            "name": "AD_UUID",
+            "values": [
+              "80180c0f-f31c-4f73-87cf-b34e9d305250"
+            ]
+          },
+          {
+            "name": "ADDRESS",
+            "values": [
+              "Otto-Probst-Straße"
+            ]
+          },
+          {
+            "name": "COORDINATES",
+            "values": [
+              "48.15674,16.35327"
+            ]
+          },
+          {
+            "name": "PRICE",
+            "values": [
+              "303"
+            ]
+          },
+          {
+            "name": "PRICE_FOR_DISPLAY",
+            "values": [
+              "€ 303"
+            ]
+          }
+        ]
+      },
+      "advertImageList": {
+        "advertImage": [
+          {
+            "id": 1,
+            "name": "2/152/065/3002_1722213636.jpg",
+            "selfLink": "https://api.willhaben.at/restapi/v2/atimage/1520653002/1",
+            "description": "Cover Image",
+            "mainImageUrl": "https://cache.willhaben.at/mmo/2/152/065/3002_1722213636_hoved.jpg",
+            "thumbnailImageUrl": "https://cache.willhaben.at/mmo/2/152/065/3002_1722213636_thumb.jpg",
+            "referenceImageUrl": "https://cache.willhaben.at/mmo/2/152/065/3002_1722213636.jpg",
+            "similarImageSearchUrl": null,
+            "reference": "2/152/065/3002_1722213636.jpg"
+          },
+          {
+            "id": 1,
+            "name": "2/152/065/3002_-1075125646.jpg",
+            "selfLink": "https://api.willhaben.at/restapi/v2/atimage/1520653002/1",
+            "description": "Cover Image",
+            "mainImageUrl": "https://cache.willhaben.at/mmo/2/152/065/3002_-1075125646_hoved.jpg",
+            "thumbnailImageUrl": "https://cache.willhaben.at/mmo/2/152/065/3002_-1075125646_thumb.jpg",
+            "referenceImageUrl": "https://cache.willhaben.at/mmo/2/152/065/3002_-1075125646.jpg",
+            "similarImageSearchUrl": null,
+            "reference": "2/152/065/3002_-1075125646.jpg"
+          },
+          {
+            "id": 1,
+            "name": "2/152/065/3002_-579090829.jpg",
+            "selfLink": "https://api.willhaben.at/restapi/v2/atimage/1520653002/1",
+            "description": "Cover Image",
+            "mainImageUrl": "https://cache.willhaben.at/mmo/2/152/065/3002_-579090829_hoved.jpg",
+            "thumbnailImageUrl": "https://cache.willhaben.at/mmo/2/152/065/3002_-579090829_thumb.jpg",
+            "referenceImageUrl": "https://cache.willhaben.at/mmo/2/152/065/3002_-579090829.jpg",
+            "similarImageSearchUrl": null,
+            "reference": "2/152/065/3002_-579090829.jpg"
+          }
+        ],
+        "floorPlans": []
+      },
+      "selfLink": "https://api.willhaben.at/restapi/v2/atverz/1520653002",
+      "contextLinkList": {
+        "contextLink": [
+          {
+            "id": "selfLink",
+            "description": "Identifies this entity",
+            "uri": "https://api.willhaben.at/restapi/v2/atverz/1520653002",
+            "selected": false,
+            "relativePath": "/atverz/1520653002",
+            "serviceName": "iad"
+          },
+          {
+            "id": "seoSelfLink",
+            "description": "Self reference",
+            "uri": "https://api.willhaben.at/restapi/v2/atverz/kaufen-und-verkaufen/d/silber-ruthenium-finish-2oz-chamaeleon-2023-erste-ausgabe-der-serie-vertreter-der-arten-germania-mint-nur-500-stueck-weltweit-1520653002/",
+            "selected": false,
+            "relativePath": "/atverz/kaufen-und-verkaufen/d/silber-ruthenium-finish-2oz-chamaeleon-2023-erste-ausgabe-der-serie-vertreter-der-arten-germania-mint-nur-500-stueck-weltweit-1520653002/",
+            "serviceName": "iad"
+          },
+          {
+            "id": "adDetailLink",
+            "description": "Self reference to advert via ad detail component",
+            "uri": "https://publicapi.willhaben.at/atdetail/v1/1520653002",
+            "selected": false,
+            "relativePath": "/1520653002",
+            "serviceName": "addetail"
+          },
+          {
+            "id": "removeAdFromFolder",
+            "description": "Remove ad from any folder",
+            "uri": "https://api.willhaben.at/restapi/v2/userfolders/remove/1520653002",
+            "selected": false,
+            "relativePath": "/userfolders/remove/1520653002",
+            "serviceName": "iad"
+          },
+          {
+            "id": "getFolderSaveLinks",
+            "description": "Get contextlinks to save the ad in the users folders",
+            "uri": "https://api.willhaben.at/restapi/v2/userfolders/links/1520653002",
+            "selected": false,
+            "relativePath": "/userfolders/links/1520653002",
+            "serviceName": "iad"
+          },
+          {
+            "id": "iadShareLink",
+            "description": "Share link in iAd",
+            "uri": "https://www.willhaben.at/iad/object?adId=1520653002",
+            "selected": false,
+            "relativePath": "/iad/object?adId=1520653002",
+            "serviceName": "web_url"
+          }
+        ]
+      },
+      "advertiserInfo": {
+        "label": null,
+        "iconSVG": null,
+        "iconPNG": null,
+        "iconType": "NONE"
+      },
+      "upsellingOrganisationLogo": null,
+      "teaserAttributes": [],
+      "children": null
+    },
+    {
+      "id": "747416019",
+      "verticalId": 5,
+      "adTypeId": 68,
+      "productId": 68,
+      "advertStatus": {
+        "id": "active",
+        "description": "aktiv",
+        "statusId": 50
+      },
+      "description": "Krüge",
+      "attributes": {
+        "attribute": [
+          {
+            "name": "LOCATION",
+            "values": [
+              "Neuaigen"
+            ]
+          },
+          {
+            "name": "p2penabled",
+            "values": [
+              "false"
+            ]
+          },
+          {
+            "name": "CHANGED",
+            "values": [
+              "1702322040000"
+            ]
+          },
+          {
+            "name": "categorytreeattributeids",
+            "values": [
+              "[2553;6926, 21;23, 2535;2536]"
+            ]
+          },
+          {
+            "name": "CHANGED_String",
+            "values": [
+              "2023-12-11T20:14:00Z"
+            ]
+          },
+          {
+            "name": "POSTCODE",
+            "values": [
+              "3430"
+            ]
+          },
+          {
+            "name": "BODY_DYN",
+            "values": [
+              "Preis pro Stück ab 30€"
+            ]
+          },
+          {
+            "name": "ORGNAME",
+            "values": [
+              "Spock Expert"
+            ]
+          },
+          {
+            "name": "STATE",
+            "values": [
+              "Niederösterreich"
+            ]
+          },
+          {
+            "name": "ORG_UUID",
+            "values": [
+              "a52eff9d-b4ff-4a77-a6e6-3ea5ea4275c8"
+            ]
+          },
+          {
+            "name": "HEADING",
+            "values": [
+              "Krüge"
+            ]
+          },
+          {
+            "name": "DISTRICT",
+            "values": [
+              "Tulln"
+            ]
+          },
+          {
+            "name": "PUBLISHED",
+            "values": [
+              "1702322040000"
+            ]
+          },
+          {
+            "name": "COUNTRY",
+            "values": [
+              "Österreich"
+            ]
+          },
+          {
+            "name": "RESULT_LIST_TOPAD",
+            "values": [
+              "topad_result"
+            ]
+          },
+          {
+            "name": "PRICE/AMOUNT",
+            "values": [
+              "30.0"
+            ]
+          },
+          {
+            "name": "CONTACT/NAME",
+            "values": [
+              "Erich Bacher"
+            ]
+          },
+          {
+            "name": "ENDDATE_String",
+            "values": [
+              "2051-04-27T16:37:00Z"
+            ]
+          },
+          {
+            "name": "ADTYPE_ID",
+            "values": [
+              "68"
+            ]
+          },
+          {
+            "name": "ADID",
+            "values": [
+              "747416019"
+            ]
+          },
+          {
+            "name": "ORGID",
+            "values": [
+              "1003282"
+            ]
+          },
+          {
+            "name": "SEGMENT",
+            "values": [
+              "3"
+            ]
+          },
+          {
+            "name": "SEO_URL",
+            "values": [
+              "kaufen-und-verkaufen/d/kruege-747416019/"
+            ]
+          },
+          {
+            "name": "ALL_IMAGE_URLS",
+            "values": [
+              "9/747/416/019_315878590.jpg"
+            ]
+          },
+          {
+            "name": "PUBLISHED_String",
+            "values": [
+              "2023-12-11T20:14:00Z"
+            ]
+          },
+          {
+            "name": "ISPRIVATE",
+            "values": [
+              "0"
+            ]
+          },
+          {
+            "name": "categorytreeids",
+            "values": [
+              "6941;6980;6988"
+            ]
+          },
+          {
+            "name": "ORGMAINLOGO",
+            "values": [
+              "atz/1003282/spock_expert_nk_logo_06_10_2023_7700956708596735171_12435850223344240506.png"
+            ]
+          },
+          {
+            "name": "PRODUCT_ID",
+            "values": [
+              "68"
+            ]
+          },
+          {
+            "name": "IS_BUMPED",
+            "values": [
+              "1"
+            ]
+          },
+          {
+            "name": "MMO",
+            "values": [
+              "9/747/416/019_315878590.jpg"
+            ]
+          },
+          {
+            "name": "ENDDATE",
+            "values": [
+              "2566219020000"
+            ]
+          },
+          {
+            "name": "AD_UUID",
+            "values": [
+              "8d639e82-c894-4947-868d-a6ca8aa3da02"
+            ]
+          },
+          {
+            "name": "ADDRESS",
+            "values": [
+              "Fischerzeile 73"
+            ]
+          },
+          {
+            "name": "COORDINATES",
+            "values": [
+              "48.36173,16.03645"
+            ]
+          },
+          {
+            "name": "PRICE",
+            "values": [
+              "30"
+            ]
+          },
+          {
+            "name": "PRICE_FOR_DISPLAY",
+            "values": [
+              "€ 30"
+            ]
+          }
+        ]
+      },
+      "advertImageList": {
+        "advertImage": [
+          {
+            "id": 1,
+            "name": "9/747/416/019_315878590.jpg",
+            "selfLink": "https://api.willhaben.at/restapi/v2/atimage/747416019/1",
+            "description": "Cover Image",
+            "mainImageUrl": "https://cache.willhaben.at/mmo/9/747/416/019_315878590_hoved.jpg",
+            "thumbnailImageUrl": "https://cache.willhaben.at/mmo/9/747/416/019_315878590_thumb.jpg",
+            "referenceImageUrl": "https://cache.willhaben.at/mmo/9/747/416/019_315878590.jpg",
+            "similarImageSearchUrl": null,
+            "reference": "9/747/416/019_315878590.jpg"
+          }
+        ],
+        "floorPlans": []
+      },
+      "selfLink": "https://api.willhaben.at/restapi/v2/atverz/747416019",
+      "contextLinkList": {
+        "contextLink": [
+          {
+            "id": "selfLink",
+            "description": "Identifies this entity",
+            "uri": "https://api.willhaben.at/restapi/v2/atverz/747416019",
+            "selected": false,
+            "relativePath": "/atverz/747416019",
+            "serviceName": "iad"
+          },
+          {
+            "id": "seoSelfLink",
+            "description": "Self reference",
+            "uri": "https://api.willhaben.at/restapi/v2/atverz/kaufen-und-verkaufen/d/kruege-747416019/",
+            "selected": false,
+            "relativePath": "/atverz/kaufen-und-verkaufen/d/kruege-747416019/",
+            "serviceName": "iad"
+          },
+          {
+            "id": "adDetailLink",
+            "description": "Self reference to advert via ad detail component",
+            "uri": "https://publicapi.willhaben.at/atdetail/v1/747416019",
+            "selected": false,
+            "relativePath": "/747416019",
+            "serviceName": "addetail"
+          },
+          {
+            "id": "removeAdFromFolder",
+            "description": "Remove ad from any folder",
+            "uri": "https://api.willhaben.at/restapi/v2/userfolders/remove/747416019",
+            "selected": false,
+            "relativePath": "/userfolders/remove/747416019",
+            "serviceName": "iad"
+          },
+          {
+            "id": "getFolderSaveLinks",
+            "description": "Get contextlinks to save the ad in the users folders",
+            "uri": "https://api.willhaben.at/restapi/v2/userfolders/links/747416019",
+            "selected": false,
+            "relativePath": "/userfolders/links/747416019",
+            "serviceName": "iad"
+          },
+          {
+            "id": "iadShareLink",
+            "description": "Share link in iAd",
+            "uri": "https://www.willhaben.at/iad/object?adId=747416019",
+            "selected": false,
+            "relativePath": "/iad/object?adId=747416019",
+            "serviceName": "web_url"
+          }
+        ]
+      },
+      "advertiserInfo": {
+        "label": null,
+        "iconSVG": null,
+        "iconPNG": null,
+        "iconType": "NONE"
+      },
+      "upsellingOrganisationLogo": null,
+      "teaserAttributes": [],
+      "children": null
+    },
+    {
+      "id": "1389147546",
+      "verticalId": 5,
+      "adTypeId": 67,
+      "productId": 67,
+      "advertStatus": {
+        "id": "active",
+        "description": "aktiv",
+        "statusId": 50
+      },
+      "description": "Schlafzimmer 50er Jahre Vollholz Lasurtechnik handgemalt Tischler Handarbeit Einzelstück",
+      "attributes": {
+        "attribute": [
+          {
+            "name": "LOCATION",
+            "values": [
+              "Egres"
+            ]
+          },
+          {
+            "name": "p2penabled",
+            "values": [
+              "false"
+            ]
+          },
+          {
+            "name": "CHANGED",
+            "values": [
+              "1713724620000"
+            ]
+          },
+          {
+            "name": "categorytreeattributeids",
+            "values": [
+              "[21;23, 2535;2536]"
+            ]
+          },
+          {
+            "name": "CHANGED_String",
+            "values": [
+              "2024-04-21T20:37:00Z"
+            ]
+          },
+          {
+            "name": "POSTCODE",
+            "values": [
+              "3920"
+            ]
+          },
+          {
+            "name": "PRICE_REDUCTION_SET_DATE",
+            "values": [
+              "1713724633189"
+            ]
+          },
+          {
+            "name": "BODY_DYN",
+            "values": [
+              "Schlafzimmer , Doppelbett 190 cm .2 Kästen ,2 Nachtkästchen , Kommode mit Spiegel Tischler Handarbeit Vollholz Lasur bemalt ,leichte Gebrauchsspuren inkl Einsätze und Matratzen ( ohne abgebildete Bettwäsche ) Privatverkauf Eigenabholung"
+            ]
+          },
+          {
+            "name": "STATE",
+            "values": [
+              "Niederösterreich"
+            ]
+          },
+          {
+            "name": "PRICE_REDUCTION_SET_DATE_String",
+            "values": [
+              "2024-04-21T20:37:13Z"
+            ]
+          },
+          {
+            "name": "ORG_UUID",
+            "values": [
+              "d75c76a3-7e65-4184-9341-c82a3667e9e5"
+            ]
+          },
+          {
+            "name": "HEADING",
+            "values": [
+              "Schlafzimmer 50er Jahre Vollholz Lasurtechnik handgemalt Tischler Handarbeit Einzelstück"
+            ]
+          },
+          {
+            "name": "DISTRICT",
+            "values": [
+              "Zwettl"
+            ]
+          },
+          {
+            "name": "PUBLISHED",
+            "values": [
+              "1712160540000"
+            ]
+          },
+          {
+            "name": "COUNTRY",
+            "values": [
+              "Österreich"
+            ]
+          },
+          {
+            "name": "RESULT_LIST_TOPAD",
+            "values": [
+              "topad_result"
+            ]
+          },
+          {
+            "name": "PRICE/AMOUNT",
+            "values": [
+              "500.0"
+            ]
+          },
+          {
+            "name": "ENDDATE_String",
+            "values": [
+              "2024-05-18T18:07:00Z"
+            ]
+          },
+          {
+            "name": "ADTYPE_ID",
+            "values": [
+              "67"
+            ]
+          },
+          {
+            "name": "ADID",
+            "values": [
+              "1389147546"
+            ]
+          },
+          {
+            "name": "ORGID",
+            "values": [
+              "24729243"
+            ]
+          },
+          {
+            "name": "SEGMENT",
+            "values": [
+              "1"
+            ]
+          },
+          {
+            "name": "SEO_URL",
+            "values": [
+              "kaufen-und-verkaufen/d/schlafzimmer-50er-jahre-vollholz-lasurtechnik-handgemalt-tischler-handarbeit-einzelstueck-1389147546/"
+            ]
+          },
+          {
+            "name": "ALL_IMAGE_URLS",
+            "values": [
+              "6/138/914/7546_853862067.jpg;6/138/914/7546_977328643.jpg;6/138/914/7546_-758524682.jpg;6/138/914/7546_411099769.jpg;6/138/914/7546_1247013599.jpg;6/138/914/7546_-376382257.jpg;6/138/914/7546_-959913162.jpg;6/138/914/7546_1295702211.jpg"
+            ]
+          },
+          {
+            "name": "PUBLISHED_String",
+            "values": [
+              "2024-04-03T18:09:00Z"
+            ]
+          },
+          {
+            "name": "ISPRIVATE",
+            "values": [
+              "1"
+            ]
+          },
+          {
+            "name": "categorytreeids",
+            "values": [
+              "6941;7003;7004"
+            ]
+          },
+          {
+            "name": "PRODUCT_ID",
+            "values": [
+              "67"
+            ]
+          },
+          {
+            "name": "MMO",
+            "values": [
+              "6/138/914/7546_853862067.jpg"
+            ]
+          },
+          {
+            "name": "ENDDATE",
+            "values": [
+              "1716048420000"
+            ]
+          },
+          {
+            "name": "AD_UUID",
+            "values": [
+              "3dee2ead-f120-436e-bc5b-b34e9d305250"
+            ]
+          },
+          {
+            "name": "ADDRESS",
+            "values": [
+              "Egres, 13,"
+            ]
+          },
+          {
+            "name": "OLD_PRICE",
+            "values": [
+              "600.0"
+            ]
+          },
+          {
+            "name": "COORDINATES",
+            "values": [
+              "48.54695,14.95108"
+            ]
+          },
+          {
+            "name": "PRICE",
+            "values": [
+              "500"
+            ]
+          },
+          {
+            "name": "PRICE_FOR_DISPLAY",
+            "values": [
+              "€ 500"
+            ]
+          },
+          {
+            "name": "OLD_PRICE_FOR_DISPLAY",
+            "values": [
+              "€ 600"
+            ]
+          }
+        ]
+      },
+      "advertImageList": {
+        "advertImage": [
+          {
+            "id": 1,
+            "name": "6/138/914/7546_853862067.jpg",
+            "selfLink": "https://api.willhaben.at/restapi/v2/atimage/1389147546/1",
+            "description": "Cover Image",
+            "mainImageUrl": "https://cache.willhaben.at/mmo/6/138/914/7546_853862067_hoved.jpg",
+            "thumbnailImageUrl": "https://cache.willhaben.at/mmo/6/138/914/7546_853862067_thumb.jpg",
+            "referenceImageUrl": "https://cache.willhaben.at/mmo/6/138/914/7546_853862067.jpg",
+            "similarImageSearchUrl": null,
+            "reference": "6/138/914/7546_853862067.jpg"
+          },
+          {
+            "id": 1,
+            "name": "6/138/914/7546_977328643.jpg",
+            "selfLink": "https://api.willhaben.at/restapi/v2/atimage/1389147546/1",
+            "description": "Cover Image",
+            "mainImageUrl": "https://cache.willhaben.at/mmo/6/138/914/7546_977328643_hoved.jpg",
+            "thumbnailImageUrl": "https://cache.willhaben.at/mmo/6/138/914/7546_977328643_thumb.jpg",
+            "referenceImageUrl": "https://cache.willhaben.at/mmo/6/138/914/7546_977328643.jpg",
+            "similarImageSearchUrl": null,
+            "reference": "6/138/914/7546_977328643.jpg"
+          },
+          {
+            "id": 1,
+            "name": "6/138/914/7546_-758524682.jpg",
+            "selfLink": "https://api.willhaben.at/restapi/v2/atimage/1389147546/1",
+            "description": "Cover Image",
+            "mainImageUrl": "https://cache.willhaben.at/mmo/6/138/914/7546_-758524682_hoved.jpg",
+            "thumbnailImageUrl": "https://cache.willhaben.at/mmo/6/138/914/7546_-758524682_thumb.jpg",
+            "referenceImageUrl": "https://cache.willhaben.at/mmo/6/138/914/7546_-758524682.jpg",
+            "similarImageSearchUrl": null,
+            "reference": "6/138/914/7546_-758524682.jpg"
+          }
+        ],
+        "floorPlans": []
+      },
+      "selfLink": "https://api.willhaben.at/restapi/v2/atverz/1389147546",
+      "contextLinkList": {
+        "contextLink": [
+          {
+            "id": "selfLink",
+            "description": "Identifies this entity",
+            "uri": "https://api.willhaben.at/restapi/v2/atverz/1389147546",
+            "selected": false,
+            "relativePath": "/atverz/1389147546",
+            "serviceName": "iad"
+          },
+          {
+            "id": "seoSelfLink",
+            "description": "Self reference",
+            "uri": "https://api.willhaben.at/restapi/v2/atverz/kaufen-und-verkaufen/d/schlafzimmer-50er-jahre-vollholz-lasurtechnik-handgemalt-tischler-handarbeit-einzelstueck-1389147546/",
+            "selected": false,
+            "relativePath": "/atverz/kaufen-und-verkaufen/d/schlafzimmer-50er-jahre-vollholz-lasurtechnik-handgemalt-tischler-handarbeit-einzelstueck-1389147546/",
+            "serviceName": "iad"
+          },
+          {
+            "id": "adDetailLink",
+            "description": "Self reference to advert via ad detail component",
+            "uri": "https://publicapi.willhaben.at/atdetail/v1/1389147546",
+            "selected": false,
+            "relativePath": "/1389147546",
+            "serviceName": "addetail"
+          },
+          {
+            "id": "removeAdFromFolder",
+            "description": "Remove ad from any folder",
+            "uri": "https://api.willhaben.at/restapi/v2/userfolders/remove/1389147546",
+            "selected": false,
+            "relativePath": "/userfolders/remove/1389147546",
+            "serviceName": "iad"
+          },
+          {
+            "id": "getFolderSaveLinks",
+            "description": "Get contextlinks to save the ad in the users folders",
+            "uri": "https://api.willhaben.at/restapi/v2/userfolders/links/1389147546",
+            "selected": false,
+            "relativePath": "/userfolders/links/1389147546",
+            "serviceName": "iad"
+          },
+          {
+            "id": "iadShareLink",
+            "description": "Share link in iAd",
+            "uri": "https://www.willhaben.at/iad/object?adId=1389147546",
+            "selected": false,
+            "relativePath": "/iad/object?adId=1389147546",
+            "serviceName": "web_url"
+          }
+        ]
+      },
+      "advertiserInfo": {
+        "label": null,
+        "iconSVG": null,
+        "iconPNG": null,
+        "iconType": "NONE"
+      },
+      "upsellingOrganisationLogo": null,
+      "teaserAttributes": [],
+      "children": null
+    }
+  ]
+}
