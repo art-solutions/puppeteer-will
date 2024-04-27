@@ -1,0 +1,948 @@
+{
+  "advertSummary": [
+    {
+      "id": "961190347",
+      "verticalId": 5,
+      "adTypeId": 67,
+      "productId": 67,
+      "advertStatus": {
+        "id": "active",
+        "description": "aktiv",
+        "statusId": 50
+      },
+      "description": "Edle Möbel für Büro oder/ und Wohnung",
+      "attributes": {
+        "attribute": [
+          {
+            "name": "LOCATION",
+            "values": [
+              "Velden am Wörther See"
+            ]
+          },
+          {
+            "name": "p2penabled",
+            "values": [
+              "false"
+            ]
+          },
+          {
+            "name": "CHANGED",
+            "values": [
+              "1714059960000"
+            ]
+          },
+          {
+            "name": "categorytreeattributeids",
+            "values": [
+              "[21;23, 2535;2536]"
+            ]
+          },
+          {
+            "name": "CHANGED_String",
+            "values": [
+              "2024-04-25T17:46:00Z"
+            ]
+          },
+          {
+            "name": "POSTCODE",
+            "values": [
+              "9220"
+            ]
+          },
+          {
+            "name": "PRICE_REDUCTION_SET_DATE",
+            "values": [
+              "1714059539687"
+            ]
+          },
+          {
+            "name": "BODY_DYN",
+            "values": [
+              "Alle angebotenen Möbel stammen aus dem Jahrzehnt 1920/30. Die Teile sind ab sofort verfügbar, wir verkaufen wegen Wohnungs- und Büroauflösung.   Esstisch mit 6 Stühlen (Foto 1-4) - Einzelpreis € 400,-- Großzügige Essgruppe, Esstisch mit 140 cm..."
+            ]
+          },
+          {
+            "name": "STATE",
+            "values": [
+              "Kärnten"
+            ]
+          },
+          {
+            "name": "PRICE_REDUCTION_SET_DATE_String",
+            "values": [
+              "2024-04-25T17:38:59Z"
+            ]
+          },
+          {
+            "name": "ORG_UUID",
+            "values": [
+              "89367f7d-cf9b-4c79-8c92-87536017a592"
+            ]
+          },
+          {
+            "name": "HEADING",
+            "values": [
+              "Edle Möbel für Büro oder/ und Wohnung"
+            ]
+          },
+          {
+            "name": "DISTRICT",
+            "values": [
+              "Villach Land"
+            ]
+          },
+          {
+            "name": "PUBLISHED",
+            "values": [
+              "1712485560000"
+            ]
+          },
+          {
+            "name": "COUNTRY",
+            "values": [
+              "Österreich"
+            ]
+          },
+          {
+            "name": "RESULT_LIST_TOPAD",
+            "values": [
+              "topad_result"
+            ]
+          },
+          {
+            "name": "PRICE/AMOUNT",
+            "values": [
+              "1150.0"
+            ]
+          },
+          {
+            "name": "ENDDATE_String",
+            "values": [
+              "2024-05-22T12:20:00Z"
+            ]
+          },
+          {
+            "name": "ADTYPE_ID",
+            "values": [
+              "67"
+            ]
+          },
+          {
+            "name": "ADID",
+            "values": [
+              "961190347"
+            ]
+          },
+          {
+            "name": "ORGID",
+            "values": [
+              "32236736"
+            ]
+          },
+          {
+            "name": "SEGMENT",
+            "values": [
+              "1"
+            ]
+          },
+          {
+            "name": "SEO_URL",
+            "values": [
+              "kaufen-und-verkaufen/d/edle-moebel-fuer-buero-oder-und-wohnung-961190347/"
+            ]
+          },
+          {
+            "name": "ALL_IMAGE_URLS",
+            "values": [
+              "7/961/190/347_-1600854739.jpg;7/961/190/347_-301998589.jpg;7/961/190/347_230023873.jpg;7/961/190/347_-2011175866.jpg;7/961/190/347_508356615.jpg;7/961/190/347_-741154123.jpg;7/961/190/347_-16391241.jpg;7/961/190/347_2067392138.jpg;7/961/190/347_1347870983.jpg;7/961/190/347_-2031297569.jpg;7/961/190/347_535880230.jpg;7/961/190/347_-1079319470.jpg;7/961/190/347_-1051984946.jpg;7/961/190/347_843243015.jpg;7/961/190/347_1168043270.jpg;7/961/190/347_-1554519946.jpg;7/961/190/347_-672144049.jpg;7/961/190/347_13163402.jpg;7/961/190/347_-1032720995.jpg;7/961/190/347_-219817151.jpg"
+            ]
+          },
+          {
+            "name": "PUBLISHED_String",
+            "values": [
+              "2024-04-07T12:26:00Z"
+            ]
+          },
+          {
+            "name": "ISPRIVATE",
+            "values": [
+              "1"
+            ]
+          },
+          {
+            "name": "categorytreeids",
+            "values": [
+              "6941;7003;7016"
+            ]
+          },
+          {
+            "name": "PRODUCT_ID",
+            "values": [
+              "67"
+            ]
+          },
+          {
+            "name": "MMO",
+            "values": [
+              "7/961/190/347_-1600854739.jpg"
+            ]
+          },
+          {
+            "name": "ENDDATE",
+            "values": [
+              "1716373200000"
+            ]
+          },
+          {
+            "name": "AD_UUID",
+            "values": [
+              "12fc5096-5bb4-4d83-8d99-b34e9d305250"
+            ]
+          },
+          {
+            "name": "ADDRESS",
+            "values": [
+              "Am Corso"
+            ]
+          },
+          {
+            "name": "OLD_PRICE",
+            "values": [
+              "1400.0"
+            ]
+          },
+          {
+            "name": "COORDINATES",
+            "values": [
+              "46.61624,14.04513"
+            ]
+          },
+          {
+            "name": "PRICE",
+            "values": [
+              "1150"
+            ]
+          },
+          {
+            "name": "PRICE_FOR_DISPLAY",
+            "values": [
+              "€ 1.150"
+            ]
+          },
+          {
+            "name": "OLD_PRICE_FOR_DISPLAY",
+            "values": [
+              "€ 1.400"
+            ]
+          }
+        ]
+      },
+      "advertImageList": {
+        "advertImage": [
+          {
+            "id": 1,
+            "name": "7/961/190/347_-1600854739.jpg",
+            "selfLink": "https://api.willhaben.at/restapi/v2/atimage/961190347/1",
+            "description": "Cover Image",
+            "mainImageUrl": "https://cache.willhaben.at/mmo/7/961/190/347_-1600854739_hoved.jpg",
+            "thumbnailImageUrl": "https://cache.willhaben.at/mmo/7/961/190/347_-1600854739_thumb.jpg",
+            "referenceImageUrl": "https://cache.willhaben.at/mmo/7/961/190/347_-1600854739.jpg",
+            "similarImageSearchUrl": null,
+            "reference": "7/961/190/347_-1600854739.jpg"
+          },
+          {
+            "id": 1,
+            "name": "7/961/190/347_-301998589.jpg",
+            "selfLink": "https://api.willhaben.at/restapi/v2/atimage/961190347/1",
+            "description": "Cover Image",
+            "mainImageUrl": "https://cache.willhaben.at/mmo/7/961/190/347_-301998589_hoved.jpg",
+            "thumbnailImageUrl": "https://cache.willhaben.at/mmo/7/961/190/347_-301998589_thumb.jpg",
+            "referenceImageUrl": "https://cache.willhaben.at/mmo/7/961/190/347_-301998589.jpg",
+            "similarImageSearchUrl": null,
+            "reference": "7/961/190/347_-301998589.jpg"
+          },
+          {
+            "id": 1,
+            "name": "7/961/190/347_230023873.jpg",
+            "selfLink": "https://api.willhaben.at/restapi/v2/atimage/961190347/1",
+            "description": "Cover Image",
+            "mainImageUrl": "https://cache.willhaben.at/mmo/7/961/190/347_230023873_hoved.jpg",
+            "thumbnailImageUrl": "https://cache.willhaben.at/mmo/7/961/190/347_230023873_thumb.jpg",
+            "referenceImageUrl": "https://cache.willhaben.at/mmo/7/961/190/347_230023873.jpg",
+            "similarImageSearchUrl": null,
+            "reference": "7/961/190/347_230023873.jpg"
+          }
+        ],
+        "floorPlans": []
+      },
+      "selfLink": "https://api.willhaben.at/restapi/v2/atverz/961190347",
+      "contextLinkList": {
+        "contextLink": [
+          {
+            "id": "selfLink",
+            "description": "Identifies this entity",
+            "uri": "https://api.willhaben.at/restapi/v2/atverz/961190347",
+            "selected": false,
+            "relativePath": "/atverz/961190347",
+            "serviceName": "iad"
+          },
+          {
+            "id": "seoSelfLink",
+            "description": "Self reference",
+            "uri": "https://api.willhaben.at/restapi/v2/atverz/kaufen-und-verkaufen/d/edle-moebel-fuer-buero-oder-und-wohnung-961190347/",
+            "selected": false,
+            "relativePath": "/atverz/kaufen-und-verkaufen/d/edle-moebel-fuer-buero-oder-und-wohnung-961190347/",
+            "serviceName": "iad"
+          },
+          {
+            "id": "adDetailLink",
+            "description": "Self reference to advert via ad detail component",
+            "uri": "https://publicapi.willhaben.at/atdetail/v1/961190347",
+            "selected": false,
+            "relativePath": "/961190347",
+            "serviceName": "addetail"
+          },
+          {
+            "id": "removeAdFromFolder",
+            "description": "Remove ad from any folder",
+            "uri": "https://api.willhaben.at/restapi/v2/userfolders/remove/961190347",
+            "selected": false,
+            "relativePath": "/userfolders/remove/961190347",
+            "serviceName": "iad"
+          },
+          {
+            "id": "getFolderSaveLinks",
+            "description": "Get contextlinks to save the ad in the users folders",
+            "uri": "https://api.willhaben.at/restapi/v2/userfolders/links/961190347",
+            "selected": false,
+            "relativePath": "/userfolders/links/961190347",
+            "serviceName": "iad"
+          },
+          {
+            "id": "iadShareLink",
+            "description": "Share link in iAd",
+            "uri": "https://www.willhaben.at/iad/object?adId=961190347",
+            "selected": false,
+            "relativePath": "/iad/object?adId=961190347",
+            "serviceName": "web_url"
+          }
+        ]
+      },
+      "advertiserInfo": {
+        "label": null,
+        "iconSVG": null,
+        "iconPNG": null,
+        "iconType": "NONE"
+      },
+      "upsellingOrganisationLogo": null,
+      "teaserAttributes": [],
+      "children": null
+    },
+    {
+      "id": "1116127639",
+      "verticalId": 5,
+      "adTypeId": 67,
+      "productId": 67,
+      "advertStatus": {
+        "id": "active",
+        "description": "aktiv",
+        "statusId": 50
+      },
+      "description": "Heiligenfiguren BAROCK",
+      "attributes": {
+        "attribute": [
+          {
+            "name": "LOCATION",
+            "values": [
+              "Neudörfl"
+            ]
+          },
+          {
+            "name": "p2penabled",
+            "values": [
+              "false"
+            ]
+          },
+          {
+            "name": "CHANGED",
+            "values": [
+              "1710585000000"
+            ]
+          },
+          {
+            "name": "categorytreeattributeids",
+            "values": [
+              "[21;23, 2553;3512, 2535;2536]"
+            ]
+          },
+          {
+            "name": "CHANGED_String",
+            "values": [
+              "2024-03-16T11:30:00Z"
+            ]
+          },
+          {
+            "name": "POSTCODE",
+            "values": [
+              "7201"
+            ]
+          },
+          {
+            "name": "BODY_DYN",
+            "values": [
+              "Einzigartige Sammlerstücke; ZWEI historische Heiligenfiguren aus Holz; Zeitalter BAROCK ; fachgerecht restauriert; die spätere Vergoldung wurde entfernt und in den ursprünglich bemalten Originalzustand versetzt; Breite ca. 35cm, Höhe ca. 55cm, Tiefe ca...."
+            ]
+          },
+          {
+            "name": "STATE",
+            "values": [
+              "Burgenland"
+            ]
+          },
+          {
+            "name": "ORG_UUID",
+            "values": [
+              "91022092-ae6e-4601-9d65-b80186fc3b9f"
+            ]
+          },
+          {
+            "name": "HEADING",
+            "values": [
+              "Heiligenfiguren BAROCK"
+            ]
+          },
+          {
+            "name": "DISTRICT",
+            "values": [
+              "Mattersburg"
+            ]
+          },
+          {
+            "name": "PUBLISHED",
+            "values": [
+              "1710585000000"
+            ]
+          },
+          {
+            "name": "COUNTRY",
+            "values": [
+              "Österreich"
+            ]
+          },
+          {
+            "name": "RESULT_LIST_TOPAD",
+            "values": [
+              "topad_result"
+            ]
+          },
+          {
+            "name": "PRICE/AMOUNT",
+            "values": [
+              "1900.0"
+            ]
+          },
+          {
+            "name": "ENDDATE_String",
+            "values": [
+              "2024-04-30T11:28:00Z"
+            ]
+          },
+          {
+            "name": "ADTYPE_ID",
+            "values": [
+              "67"
+            ]
+          },
+          {
+            "name": "ADID",
+            "values": [
+              "1116127639"
+            ]
+          },
+          {
+            "name": "ORGID",
+            "values": [
+              "24237145"
+            ]
+          },
+          {
+            "name": "SEGMENT",
+            "values": [
+              "1"
+            ]
+          },
+          {
+            "name": "SEO_URL",
+            "values": [
+              "kaufen-und-verkaufen/d/heiligenfiguren-barock-1116127639/"
+            ]
+          },
+          {
+            "name": "ALL_IMAGE_URLS",
+            "values": [
+              "9/111/612/7639_-2005017285.jpg;9/111/612/7639_-1601249497.jpg;9/111/612/7639_424534159.jpg;9/111/612/7639_-1822893194.jpg;9/111/612/7639_-1501570539.jpg;9/111/612/7639_-253825516.jpg;9/111/612/7639_1138746632.jpg;9/111/612/7639_-1001988587.jpg"
+            ]
+          },
+          {
+            "name": "PUBLISHED_String",
+            "values": [
+              "2024-03-16T11:30:00Z"
+            ]
+          },
+          {
+            "name": "ISPRIVATE",
+            "values": [
+              "1"
+            ]
+          },
+          {
+            "name": "categorytreeids",
+            "values": [
+              "6941;6969;6976"
+            ]
+          },
+          {
+            "name": "PRODUCT_ID",
+            "values": [
+              "67"
+            ]
+          },
+          {
+            "name": "MMO",
+            "values": [
+              "9/111/612/7639_-2005017285.jpg"
+            ]
+          },
+          {
+            "name": "ENDDATE",
+            "values": [
+              "1714469280000"
+            ]
+          },
+          {
+            "name": "AD_UUID",
+            "values": [
+              "4930e831-2ba4-437d-aca5-b34e9d305250"
+            ]
+          },
+          {
+            "name": "COORDINATES",
+            "values": [
+              "47.79603,16.29733"
+            ]
+          },
+          {
+            "name": "PRICE",
+            "values": [
+              "1900"
+            ]
+          },
+          {
+            "name": "PRICE_FOR_DISPLAY",
+            "values": [
+              "€ 1.900"
+            ]
+          },
+          {
+            "name": "ACTIVE_UNTIL",
+            "values": [
+              "Noch 5 Tage"
+            ]
+          }
+        ]
+      },
+      "advertImageList": {
+        "advertImage": [
+          {
+            "id": 1,
+            "name": "9/111/612/7639_-2005017285.jpg",
+            "selfLink": "https://api.willhaben.at/restapi/v2/atimage/1116127639/1",
+            "description": "Cover Image",
+            "mainImageUrl": "https://cache.willhaben.at/mmo/9/111/612/7639_-2005017285_hoved.jpg",
+            "thumbnailImageUrl": "https://cache.willhaben.at/mmo/9/111/612/7639_-2005017285_thumb.jpg",
+            "referenceImageUrl": "https://cache.willhaben.at/mmo/9/111/612/7639_-2005017285.jpg",
+            "similarImageSearchUrl": null,
+            "reference": "9/111/612/7639_-2005017285.jpg"
+          },
+          {
+            "id": 1,
+            "name": "9/111/612/7639_-1601249497.jpg",
+            "selfLink": "https://api.willhaben.at/restapi/v2/atimage/1116127639/1",
+            "description": "Cover Image",
+            "mainImageUrl": "https://cache.willhaben.at/mmo/9/111/612/7639_-1601249497_hoved.jpg",
+            "thumbnailImageUrl": "https://cache.willhaben.at/mmo/9/111/612/7639_-1601249497_thumb.jpg",
+            "referenceImageUrl": "https://cache.willhaben.at/mmo/9/111/612/7639_-1601249497.jpg",
+            "similarImageSearchUrl": null,
+            "reference": "9/111/612/7639_-1601249497.jpg"
+          },
+          {
+            "id": 1,
+            "name": "9/111/612/7639_424534159.jpg",
+            "selfLink": "https://api.willhaben.at/restapi/v2/atimage/1116127639/1",
+            "description": "Cover Image",
+            "mainImageUrl": "https://cache.willhaben.at/mmo/9/111/612/7639_424534159_hoved.jpg",
+            "thumbnailImageUrl": "https://cache.willhaben.at/mmo/9/111/612/7639_424534159_thumb.jpg",
+            "referenceImageUrl": "https://cache.willhaben.at/mmo/9/111/612/7639_424534159.jpg",
+            "similarImageSearchUrl": null,
+            "reference": "9/111/612/7639_424534159.jpg"
+          }
+        ],
+        "floorPlans": []
+      },
+      "selfLink": "https://api.willhaben.at/restapi/v2/atverz/1116127639",
+      "contextLinkList": {
+        "contextLink": [
+          {
+            "id": "selfLink",
+            "description": "Identifies this entity",
+            "uri": "https://api.willhaben.at/restapi/v2/atverz/1116127639",
+            "selected": false,
+            "relativePath": "/atverz/1116127639",
+            "serviceName": "iad"
+          },
+          {
+            "id": "seoSelfLink",
+            "description": "Self reference",
+            "uri": "https://api.willhaben.at/restapi/v2/atverz/kaufen-und-verkaufen/d/heiligenfiguren-barock-1116127639/",
+            "selected": false,
+            "relativePath": "/atverz/kaufen-und-verkaufen/d/heiligenfiguren-barock-1116127639/",
+            "serviceName": "iad"
+          },
+          {
+            "id": "adDetailLink",
+            "description": "Self reference to advert via ad detail component",
+            "uri": "https://publicapi.willhaben.at/atdetail/v1/1116127639",
+            "selected": false,
+            "relativePath": "/1116127639",
+            "serviceName": "addetail"
+          },
+          {
+            "id": "removeAdFromFolder",
+            "description": "Remove ad from any folder",
+            "uri": "https://api.willhaben.at/restapi/v2/userfolders/remove/1116127639",
+            "selected": false,
+            "relativePath": "/userfolders/remove/1116127639",
+            "serviceName": "iad"
+          },
+          {
+            "id": "getFolderSaveLinks",
+            "description": "Get contextlinks to save the ad in the users folders",
+            "uri": "https://api.willhaben.at/restapi/v2/userfolders/links/1116127639",
+            "selected": false,
+            "relativePath": "/userfolders/links/1116127639",
+            "serviceName": "iad"
+          },
+          {
+            "id": "iadShareLink",
+            "description": "Share link in iAd",
+            "uri": "https://www.willhaben.at/iad/object?adId=1116127639",
+            "selected": false,
+            "relativePath": "/iad/object?adId=1116127639",
+            "serviceName": "web_url"
+          }
+        ]
+      },
+      "advertiserInfo": {
+        "label": null,
+        "iconSVG": null,
+        "iconPNG": null,
+        "iconType": "NONE"
+      },
+      "upsellingOrganisationLogo": null,
+      "teaserAttributes": [],
+      "children": null
+    },
+    {
+      "id": "2058104559",
+      "verticalId": 5,
+      "adTypeId": 67,
+      "productId": 67,
+      "advertStatus": {
+        "id": "active",
+        "description": "aktiv",
+        "statusId": 50
+      },
+      "description": "i werd´ narrisch Edi Finger Live",
+      "attributes": {
+        "attribute": [
+          {
+            "name": "LOCATION",
+            "values": [
+              "Linz"
+            ]
+          },
+          {
+            "name": "p2penabled",
+            "values": [
+              "true"
+            ]
+          },
+          {
+            "name": "CHANGED",
+            "values": [
+              "1711405860000"
+            ]
+          },
+          {
+            "name": "categorytreeattributeids",
+            "values": [
+              "[2535;2537, 21;23]"
+            ]
+          },
+          {
+            "name": "CHANGED_String",
+            "values": [
+              "2024-03-25T23:31:00Z"
+            ]
+          },
+          {
+            "name": "POSTCODE",
+            "values": [
+              "4020"
+            ]
+          },
+          {
+            "name": "BODY_DYN",
+            "values": [
+              "Fussball WM 78 i werd` narrisch Edi Finger Live Idee und Zusammenstellung: Herbert Kefeder Foto: Votava, Wien/Fischer, Wien Graphik: Wurzenberger, Wien Preis ohne Versand+Verpackung. Keine Gewährleistung bei Rücknahme. telefonische Kontaktaufnahme oder..."
+            ]
+          },
+          {
+            "name": "STATE",
+            "values": [
+              "Oberösterreich"
+            ]
+          },
+          {
+            "name": "ORG_UUID",
+            "values": [
+              "29fa5a43-03b8-4fcf-9545-e2c91a4831c9"
+            ]
+          },
+          {
+            "name": "HEADING",
+            "values": [
+              "i werd´ narrisch Edi Finger Live"
+            ]
+          },
+          {
+            "name": "DISTRICT",
+            "values": [
+              "Linz"
+            ]
+          },
+          {
+            "name": "PUBLISHED",
+            "values": [
+              "1711405860000"
+            ]
+          },
+          {
+            "name": "COUNTRY",
+            "values": [
+              "Österreich"
+            ]
+          },
+          {
+            "name": "RESULT_LIST_TOPAD",
+            "values": [
+              "topad_result"
+            ]
+          },
+          {
+            "name": "PRICE/AMOUNT",
+            "values": [
+              "5.0"
+            ]
+          },
+          {
+            "name": "ENDDATE_String",
+            "values": [
+              "2024-05-09T23:31:00Z"
+            ]
+          },
+          {
+            "name": "ADTYPE_ID",
+            "values": [
+              "67"
+            ]
+          },
+          {
+            "name": "ADID",
+            "values": [
+              "2058104559"
+            ]
+          },
+          {
+            "name": "ORGID",
+            "values": [
+              "20683860"
+            ]
+          },
+          {
+            "name": "SEGMENT",
+            "values": [
+              "1"
+            ]
+          },
+          {
+            "name": "SEO_URL",
+            "values": [
+              "kaufen-und-verkaufen/d/i-werd-narrisch-edi-finger-live-2058104559/"
+            ]
+          },
+          {
+            "name": "ALL_IMAGE_URLS",
+            "values": [
+              "9/205/810/4559_-906110274.jpg"
+            ]
+          },
+          {
+            "name": "PUBLISHED_String",
+            "values": [
+              "2024-03-25T23:31:00Z"
+            ]
+          },
+          {
+            "name": "ISPRIVATE",
+            "values": [
+              "1"
+            ]
+          },
+          {
+            "name": "categorytreeids",
+            "values": [
+              "[6462;6621;6634;6641, 6941;7059;7072;7079]"
+            ]
+          },
+          {
+            "name": "PRODUCT_ID",
+            "values": [
+              "67"
+            ]
+          },
+          {
+            "name": "MMO",
+            "values": [
+              "9/205/810/4559_-906110274.jpg"
+            ]
+          },
+          {
+            "name": "ENDDATE",
+            "values": [
+              "1715290260000"
+            ]
+          },
+          {
+            "name": "AD_UUID",
+            "values": [
+              "ab5ea2a7-9d3c-4b20-bf5b-b34e9d305250"
+            ]
+          },
+          {
+            "name": "ADDRESS",
+            "values": [
+              "Gruberstraße 22"
+            ]
+          },
+          {
+            "name": "COORDINATES",
+            "values": [
+              "48.30917,14.29882"
+            ]
+          },
+          {
+            "name": "PRICE",
+            "values": [
+              "5"
+            ]
+          },
+          {
+            "name": "PRICE_FOR_DISPLAY",
+            "values": [
+              "€ 5"
+            ]
+          }
+        ]
+      },
+      "advertImageList": {
+        "advertImage": [
+          {
+            "id": 1,
+            "name": "9/205/810/4559_-906110274.jpg",
+            "selfLink": "https://api.willhaben.at/restapi/v2/atimage/2058104559/1",
+            "description": "Cover Image",
+            "mainImageUrl": "https://cache.willhaben.at/mmo/9/205/810/4559_-906110274_hoved.jpg",
+            "thumbnailImageUrl": "https://cache.willhaben.at/mmo/9/205/810/4559_-906110274_thumb.jpg",
+            "referenceImageUrl": "https://cache.willhaben.at/mmo/9/205/810/4559_-906110274.jpg",
+            "similarImageSearchUrl": null,
+            "reference": "9/205/810/4559_-906110274.jpg"
+          }
+        ],
+        "floorPlans": []
+      },
+      "selfLink": "https://api.willhaben.at/restapi/v2/atverz/2058104559",
+      "contextLinkList": {
+        "contextLink": [
+          {
+            "id": "selfLink",
+            "description": "Identifies this entity",
+            "uri": "https://api.willhaben.at/restapi/v2/atverz/2058104559",
+            "selected": false,
+            "relativePath": "/atverz/2058104559",
+            "serviceName": "iad"
+          },
+          {
+            "id": "seoSelfLink",
+            "description": "Self reference",
+            "uri": "https://api.willhaben.at/restapi/v2/atverz/kaufen-und-verkaufen/d/i-werd-narrisch-edi-finger-live-2058104559/",
+            "selected": false,
+            "relativePath": "/atverz/kaufen-und-verkaufen/d/i-werd-narrisch-edi-finger-live-2058104559/",
+            "serviceName": "iad"
+          },
+          {
+            "id": "adDetailLink",
+            "description": "Self reference to advert via ad detail component",
+            "uri": "https://publicapi.willhaben.at/atdetail/v1/2058104559",
+            "selected": false,
+            "relativePath": "/2058104559",
+            "serviceName": "addetail"
+          },
+          {
+            "id": "removeAdFromFolder",
+            "description": "Remove ad from any folder",
+            "uri": "https://api.willhaben.at/restapi/v2/userfolders/remove/2058104559",
+            "selected": false,
+            "relativePath": "/userfolders/remove/2058104559",
+            "serviceName": "iad"
+          },
+          {
+            "id": "getFolderSaveLinks",
+            "description": "Get contextlinks to save the ad in the users folders",
+            "uri": "https://api.willhaben.at/restapi/v2/userfolders/links/2058104559",
+            "selected": false,
+            "relativePath": "/userfolders/links/2058104559",
+            "serviceName": "iad"
+          },
+          {
+            "id": "iadShareLink",
+            "description": "Share link in iAd",
+            "uri": "https://www.willhaben.at/iad/object?adId=2058104559",
+            "selected": false,
+            "relativePath": "/iad/object?adId=2058104559",
+            "serviceName": "web_url"
+          }
+        ]
+      },
+      "advertiserInfo": {
+        "label": null,
+        "iconSVG": null,
+        "iconPNG": null,
+        "iconType": "NONE"
+      },
+      "upsellingOrganisationLogo": null,
+      "teaserAttributes": [],
+      "children": null
+    }
+  ]
+}
