@@ -1,6 +1,5 @@
-# Use the official Node.js 14 image.
-# https://hub.docker.com/_/node
-FROM node:14-slim
+# Use a newer, stable Node.js image.
+FROM node:16-slim
 
 # Puppeteer dependencies
 RUN apt-get update && apt-get install -y \
@@ -31,9 +30,15 @@ RUN apt-get update && apt-get install -y \
 # Create and change to the app directory.
 WORKDIR /usr/src/app
 
+# Create a new user "appuser" and switch to it
+RUN groupadd -r appuser && useradd -r -g appuser -G audio,video appuser \
+    && mkdir -p /home/appuser/Downloads \
+    && chown -R appuser:appuser /home/appuser \
+    && chown -R appuser:appuser /usr/src/app
+
+USER appuser
+
 # Copy application dependency manifests to the container image.
-# A wildcard is used to ensure both package.json AND package-lock.json are copied.
-# Copying this separately prevents re-running npm install on every code change.
 COPY package*.json ./
 
 # Install production dependencies.
