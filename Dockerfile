@@ -1,7 +1,18 @@
-# Use a newer, stable Node.js image.
-FROM node:16-slim
+# Use the official Node.js 14 image.
+# If you need a different version of Node.js, replace '14' with your desired version.
+FROM node:14-slim
 
-# Puppeteer dependencies
+# Set the working directory inside the container
+WORKDIR /app
+
+# Copy 'package.json' and 'package-lock.json' (if available)
+COPY package*.json ./
+
+# Install dependencies
+# Note: '--no-cache' is used to ensure the latest versions are installed.
+RUN npm install --no-cache
+
+# Install Puppeteer dependencies
 RUN apt-get update && apt-get install -y \
     wget \
     ca-certificates \
@@ -20,32 +31,14 @@ RUN apt-get update && apt-get install -y \
     libxdamage1 \
     libxrandr2 \
     xdg-utils \
-    libpango1.0-0 \
-    libgbm-dev \
-    libxshmfence1 \
-    --no-install-recommends && \
-    apt-get clean && \
-    rm -rf /var/lib/apt/lists/*
+    --no-install-recommends \
+    && rm -rf /var/lib/apt/lists/*
 
-# Create and change to the app directory.
-WORKDIR /usr/src/app
-
-# Create a new user "appuser" and switch to it
-RUN groupadd -r appuser && useradd -r -g appuser -G audio,video appuser \
-    && mkdir -p /home/appuser/Downloads \
-    && chown -R appuser:appuser /home/appuser \
-    && chown -R appuser:appuser /usr/src/app
-
-USER appuser
-
-# Copy application dependency manifests to the container image.
-COPY package*.json ./
-
-# Install production dependencies.
-RUN npm install --only=production
-
-# Copy local code to the container image.
+# Copy the rest of your app's source code from your host to your image filesystem.
 COPY . .
 
-# Run the web service on container startup.
-CMD [ "node", "server.js" ]
+# Inform Docker that the container listens on the specified port at runtime.
+EXPOSE 3888
+
+# Run the application
+CMD ["node", "index.js"]
