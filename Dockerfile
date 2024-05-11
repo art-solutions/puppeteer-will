@@ -1,6 +1,5 @@
-# Use the official Node.js 14 image.
-# If you need a different version of Node.js, replace '14' with your desired version.
-FROM node:14-slim
+# Use a newer version of Node.js
+FROM node:16-slim
 
 # Set the working directory inside the container
 WORKDIR /app
@@ -9,7 +8,6 @@ WORKDIR /app
 COPY package*.json ./
 
 # Install dependencies
-# Note: '--no-cache' is used to ensure the latest versions are installed.
 RUN npm install --no-cache
 
 # Install Puppeteer dependencies
