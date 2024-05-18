@@ -1,7 +1,7 @@
 const puppeteer = require('puppeteer');
 const express = require('express');
 const app = express();
-const PORT = 3888;
+const PORT = 4555;
 
 app.use(express.json());
 
@@ -13,13 +13,13 @@ app.post('/extractdata', async (req, res) => {
     }
 
     try {
-            const browser = await puppeteer.launch({
-        args: [
-            '--no-sandbox',
-            '--disable-setuid-sandbox'
-        ]
-    });
-    const page = await browser.newPage();
+        const browser = await puppeteer.launch({
+            args: [
+                '--no-sandbox',
+                '--disable-setuid-sandbox'
+            ]
+        });
+        const page = await browser.newPage();
 
         // Navigate to the desired URL
         await page.goto(url);

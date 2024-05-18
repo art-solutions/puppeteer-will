@@ -1,7 +1,14 @@
 {
+  "name": "data-extraction-microservice",
+  "version": "1.0.0",
+  "description": "Data extraction microservice using Puppeteer",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
   "dependencies": {
-    "express": "^4.19.2",
-    "package.json": "^2.0.1",
-    "puppeteer": "^22.7.1"
+    "express": "^4.17.1",
+    "puppeteer-core": "8.0.0",
+    "puppeteer": "^9.1.1"
   }
 }
