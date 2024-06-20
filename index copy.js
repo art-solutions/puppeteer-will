@@ -12,9 +12,8 @@ app.post('/extractdata', async (req, res) => {
         return res.status(400).send({ error: 'URL is required' });
     }
 
-    let browser;
     try {
-        browser = await puppeteer.launch({
+        const browser = await puppeteer.launch({
             args: [
                 '--no-sandbox',
                 '--disable-setuid-sandbox'
@@ -34,6 +33,8 @@ app.post('/extractdata', async (req, res) => {
             return null;
         });
 
+        await browser.close();
+
         if (jsonData) {
             // Return the JSON data in response
             res.status(200).send(jsonData);
@@ -42,10 +43,6 @@ app.post('/extractdata', async (req, res) => {
         }
     } catch (error) {
         res.status(500).send({ error: 'Failed to process the request' });
-    } finally {
-        if (browser) {
-            await browser.close();
-        }
     }
 });
 

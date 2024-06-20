@@ -5,6 +5,23 @@ const PORT = 4555;
 
 app.use(express.json());
 
+// Array of proxy servers
+const proxies = [
+    'http://proxy1:port',
+    'http://proxy2:port',
+    'http://proxy3:port',
+    'http://proxy4:port',
+    'http://proxy5:port'
+];
+
+let proxyIndex = 0;
+
+function getNextProxy() {
+    const proxy = proxies[proxyIndex];
+    proxyIndex = (proxyIndex + 1) % proxies.length;
+    return proxy;
+}
+
 app.post('/extractdata', async (req, res) => {
     const { url } = req.body;
 
@@ -14,12 +31,17 @@ app.post('/extractdata', async (req, res) => {
 
     let browser;
     try {
-        browser = await puppeteer.launch({
+        const proxy = getNextProxy(); // Get the next proxy in the list
+        const launchOptions = {
             args: [
                 '--no-sandbox',
-                '--disable-setuid-sandbox'
+                '--disable-setuid-sandbox',
+                `--proxy-server=${proxy}` // Add the proxy server
             ]
-        });
+        };
+
+        // Launch the browser with the launch options
+        browser = await puppeteer.launch(launchOptions);
         const page = await browser.newPage();
 
         // Navigate to the desired URL
